@@ -1,0 +1,1 @@
+Exemplo de texto para processamento, incluindo palavras como né e outras stopwords personalizadas, sim, ..., vamos. Eles sabem que a nossa felicidade e a nossa alegria sao enormes ? . ! 

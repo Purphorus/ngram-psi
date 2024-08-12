@@ -1,0 +1,5 @@
+casa,lar,abrigo:moradia
+feliz,alegre,contente,alegria:felicidade
+rápido,veloz,ágil:rapidez
+pergunto, perguntar:perguntar
+pessoo,pessoa:pessoa
