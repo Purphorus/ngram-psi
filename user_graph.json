@@ -1,0 +1,1204 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "rela\u00e7\u00e3o"
+        },
+        {
+            "id": "pai"
+        },
+        {
+            "id": "manter"
+        },
+        {
+            "id": "intera\u00e7\u00e3o"
+        },
+        {
+            "id": "quanto"
+        },
+        {
+            "id": "sempre"
+        },
+        {
+            "id": "complicada"
+        },
+        {
+            "id": "marcada"
+        },
+        {
+            "id": "busca"
+        },
+        {
+            "id": "constante"
+        },
+        {
+            "id": "aprova\u00e7\u00e3o"
+        },
+        {
+            "id": "amor"
+        },
+        {
+            "id": "alcance"
+        },
+        {
+            "id": "fundo"
+        },
+        {
+            "id": "pessoa"
+        },
+        {
+            "id": "dif\u00edcil"
+        },
+        {
+            "id": "cr\u00edticas"
+        },
+        {
+            "id": "frequentes"
+        },
+        {
+            "id": "parecem"
+        },
+        {
+            "id": "minar"
+        },
+        {
+            "id": "qualquer"
+        },
+        {
+            "id": "confian\u00e7a"
+        },
+        {
+            "id": "tento"
+        },
+        {
+            "id": "construir"
+        },
+        {
+            "id": "hoje"
+        },
+        {
+            "id": "durante"
+        },
+        {
+            "id": "jantar"
+        },
+        {
+            "id": "tenso"
+        },
+        {
+            "id": "tentei"
+        },
+        {
+            "id": "compartilhar"
+        },
+        {
+            "id": "conquistas"
+        },
+        {
+            "id": "recentes"
+        },
+        {
+            "id": "esperando"
+        },
+        {
+            "id": "ingenuamente"
+        },
+        {
+            "id": "momento"
+        },
+        {
+            "id": "conex\u00e3o"
+        },
+        {
+            "id": "vislumbre"
+        },
+        {
+            "id": "orgulho"
+        },
+        {
+            "id": "disso"
+        },
+        {
+            "id": "respostas"
+        },
+        {
+            "id": "frias"
+        },
+        {
+            "id": "perguntas"
+        },
+        {
+            "id": "pontuadas"
+        },
+        {
+            "id": "d\u00favidas"
+        },
+        {
+            "id": "sobre"
+        },
+        {
+            "id": "escolhas"
+        },
+        {
+            "id": "caminhos"
+        },
+        {
+            "id": "momentos"
+        },
+        {
+            "id": "deixam"
+        },
+        {
+            "id": "questionando"
+        },
+        {
+            "id": "valor"
+        },
+        {
+            "id": "reavivam"
+        },
+        {
+            "id": "ansiedade"
+        },
+        {
+            "id": "luto"
+        },
+        {
+            "id": "tanto"
+        },
+        {
+            "id": "controlar"
+        },
+        {
+            "id": "vir\u00e1"
+        },
+        {
+            "id": "internamente"
+        },
+        {
+            "id": "sinto-me"
+        },
+        {
+            "id": "constantemente"
+        },
+        {
+            "id": "corda"
+        },
+        {
+            "id": "bamba"
+        },
+        {
+            "id": "tentando"
+        },
+        {
+            "id": "equilibrar"
+        },
+        {
+            "id": "sa\u00fade"
+        },
+        {
+            "id": "mental"
+        },
+        {
+            "id": "necessidade"
+        },
+        {
+            "id": "lembrete"
+        },
+        {
+            "id": "tente"
+        },
+        {
+            "id": "nunca"
+        },
+        {
+            "id": "ainda"
+        },
+        {
+            "id": "desejo"
+        },
+        {
+            "id": "noite"
+        },
+        {
+            "id": "enquanto"
+        },
+        {
+            "id": "moradia"
+        },
+        {
+            "id": "dorme"
+        },
+        {
+            "id": "fico"
+        },
+        {
+            "id": "acordada"
+        },
+        {
+            "id": "revivendo"
+        },
+        {
+            "id": "palavra"
+        },
+        {
+            "id": "perguntando"
+        },
+        {
+            "id": "dia"
+        },
+        {
+            "id": "paz"
+        },
+        {
+            "id": "muitos"
+        },
+        {
+            "id": "outros"
+        },
+        {
+            "id": "dias"
+        },
+        {
+            "id": "acordei"
+        },
+        {
+            "id": "sentindo"
+        },
+        {
+            "id": "peso"
+        },
+        {
+            "id": "misturado"
+        },
+        {
+            "id": "alimenta"
+        },
+        {
+            "id": "deixando"
+        },
+        {
+            "id": "press\u00e3o"
+        },
+        {
+            "id": "expectativas"
+        },
+        {
+            "id": "dan\u00e7a"
+        },
+        {
+            "id": "atendidas"
+        },
+        {
+            "id": "vis\u00e3o"
+        },
+        {
+            "id": "olhos"
+        },
+        {
+            "id": "sentirei"
+        },
+        {
+            "id": "espec\u00edfica"
+        },
+        {
+            "id": "vida"
+        },
+        {
+            "id": "raramente"
+        },
+        {
+            "id": "quer"
+        },
+        {
+            "id": "alinha"
+        },
+        {
+            "id": "pr\u00f3prios"
+        },
+        {
+            "id": "desejos"
+        },
+        {
+            "id": "paix\u00f5es"
+        },
+        {
+            "id": "deixa"
+        },
+        {
+            "id": "estado"
+        },
+        {
+            "id": "eco"
+        },
+        {
+            "id": "desaprova\u00e7\u00e3o"
+        },
+        {
+            "id": "tens\u00e3o"
+        },
+        {
+            "id": "agrad\u00e1-lo"
+        },
+        {
+            "id": "seguir"
+        },
+        {
+            "id": "pr\u00f3prio"
+        },
+        {
+            "id": "caminho"
+        },
+        {
+            "id": "conversa"
+        },
+        {
+            "id": "parece"
+        },
+        {
+            "id": "batalha"
+        },
+        {
+            "id": "sutil"
+        },
+        {
+            "id": "palavras"
+        },
+        {
+            "id": "ressoando"
+        },
+        {
+            "id": "mente"
+        },
+        {
+            "id": "medo"
+        },
+        {
+            "id": "tomar"
+        },
+        {
+            "id": "decis\u00e3o"
+        },
+        {
+            "id": "rea\u00e7\u00e3o"
+        },
+        {
+            "id": "pior"
+        },
+        {
+            "id": "decep\u00e7\u00e3o"
+        },
+        {
+            "id": "ins\u00f4nia"
+        },
+        {
+            "id": "toma"
+        },
+        {
+            "id": "conta"
+        },
+        {
+            "id": "perguntar"
+        },
+        {
+            "id": "conseguirei"
+        },
+        {
+            "id": "'suficiente"
+        },
+        {
+            "id": "presa"
+        },
+        {
+            "id": "nesta"
+        }
+    ],
+    "links": [
+        {
+            "weight": 1,
+            "source": "rela\u00e7\u00e3o",
+            "target": "pai"
+        },
+        {
+            "weight": 1,
+            "source": "rela\u00e7\u00e3o",
+            "target": "manter"
+        },
+        {
+            "weight": 1,
+            "source": "rela\u00e7\u00e3o",
+            "target": "intera\u00e7\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "rela\u00e7\u00e3o",
+            "target": "quanto"
+        },
+        {
+            "weight": 2,
+            "source": "pai",
+            "target": "sempre"
+        },
+        {
+            "weight": 1,
+            "source": "pai",
+            "target": "expectativas"
+        },
+        {
+            "weight": 1,
+            "source": "manter",
+            "target": "necessidade"
+        },
+        {
+            "weight": 1,
+            "source": "intera\u00e7\u00e3o",
+            "target": "lembrete"
+        },
+        {
+            "weight": 1,
+            "source": "quanto",
+            "target": "internamente"
+        },
+        {
+            "weight": 1,
+            "source": "sempre",
+            "target": "complicada"
+        },
+        {
+            "weight": 1,
+            "source": "sempre",
+            "target": "vis\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "sempre",
+            "target": "olhos"
+        },
+        {
+            "weight": 1,
+            "source": "sempre",
+            "target": "sentirei"
+        },
+        {
+            "weight": 1,
+            "source": "complicada",
+            "target": "marcada"
+        },
+        {
+            "weight": 1,
+            "source": "marcada",
+            "target": "busca"
+        },
+        {
+            "weight": 1,
+            "source": "busca",
+            "target": "constante"
+        },
+        {
+            "weight": 1,
+            "source": "constante",
+            "target": "aprova\u00e7\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "constante",
+            "target": "deixa"
+        },
+        {
+            "weight": 1,
+            "source": "constante",
+            "target": "estado"
+        },
+        {
+            "weight": 1,
+            "source": "constante",
+            "target": "eco"
+        },
+        {
+            "weight": 1,
+            "source": "constante",
+            "target": "desaprova\u00e7\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "aprova\u00e7\u00e3o",
+            "target": "amor"
+        },
+        {
+            "weight": 1,
+            "source": "aprova\u00e7\u00e3o",
+            "target": "alcance"
+        },
+        {
+            "weight": 1,
+            "source": "aprova\u00e7\u00e3o",
+            "target": "fundo"
+        },
+        {
+            "weight": 1,
+            "source": "amor",
+            "target": "pessoa"
+        },
+        {
+            "weight": 1,
+            "source": "alcance",
+            "target": "nunca"
+        },
+        {
+            "weight": 1,
+            "source": "fundo",
+            "target": "ainda"
+        },
+        {
+            "weight": 1,
+            "source": "pessoa",
+            "target": "dif\u00edcil"
+        },
+        {
+            "weight": 1,
+            "source": "dif\u00edcil",
+            "target": "cr\u00edticas"
+        },
+        {
+            "weight": 1,
+            "source": "cr\u00edticas",
+            "target": "frequentes"
+        },
+        {
+            "weight": 1,
+            "source": "frequentes",
+            "target": "parecem"
+        },
+        {
+            "weight": 1,
+            "source": "parecem",
+            "target": "minar"
+        },
+        {
+            "weight": 1,
+            "source": "minar",
+            "target": "qualquer"
+        },
+        {
+            "weight": 1,
+            "source": "qualquer",
+            "target": "confian\u00e7a"
+        },
+        {
+            "weight": 1,
+            "source": "qualquer",
+            "target": "tomar"
+        },
+        {
+            "weight": 1,
+            "source": "qualquer",
+            "target": "decis\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "confian\u00e7a",
+            "target": "tento"
+        },
+        {
+            "weight": 1,
+            "source": "tento",
+            "target": "construir"
+        },
+        {
+            "weight": 1,
+            "source": "construir",
+            "target": "hoje"
+        },
+        {
+            "weight": 1,
+            "source": "hoje",
+            "target": "durante"
+        },
+        {
+            "weight": 1,
+            "source": "hoje",
+            "target": "muitos"
+        },
+        {
+            "weight": 1,
+            "source": "durante",
+            "target": "jantar"
+        },
+        {
+            "weight": 1,
+            "source": "jantar",
+            "target": "tenso"
+        },
+        {
+            "weight": 1,
+            "source": "tenso",
+            "target": "tentei"
+        },
+        {
+            "weight": 1,
+            "source": "tentei",
+            "target": "compartilhar"
+        },
+        {
+            "weight": 1,
+            "source": "compartilhar",
+            "target": "conquistas"
+        },
+        {
+            "weight": 1,
+            "source": "conquistas",
+            "target": "recentes"
+        },
+        {
+            "weight": 1,
+            "source": "recentes",
+            "target": "esperando"
+        },
+        {
+            "weight": 1,
+            "source": "esperando",
+            "target": "ingenuamente"
+        },
+        {
+            "weight": 1,
+            "source": "ingenuamente",
+            "target": "momento"
+        },
+        {
+            "weight": 1,
+            "source": "momento",
+            "target": "conex\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "conex\u00e3o",
+            "target": "vislumbre"
+        },
+        {
+            "weight": 1,
+            "source": "vislumbre",
+            "target": "orgulho"
+        },
+        {
+            "weight": 1,
+            "source": "orgulho",
+            "target": "disso"
+        },
+        {
+            "weight": 1,
+            "source": "disso",
+            "target": "respostas"
+        },
+        {
+            "weight": 1,
+            "source": "respostas",
+            "target": "frias"
+        },
+        {
+            "weight": 1,
+            "source": "frias",
+            "target": "perguntas"
+        },
+        {
+            "weight": 1,
+            "source": "perguntas",
+            "target": "pontuadas"
+        },
+        {
+            "weight": 1,
+            "source": "pontuadas",
+            "target": "d\u00favidas"
+        },
+        {
+            "weight": 1,
+            "source": "d\u00favidas",
+            "target": "sobre"
+        },
+        {
+            "weight": 1,
+            "source": "sobre",
+            "target": "escolhas"
+        },
+        {
+            "weight": 1,
+            "source": "escolhas",
+            "target": "caminhos"
+        },
+        {
+            "weight": 1,
+            "source": "caminhos",
+            "target": "momentos"
+        },
+        {
+            "weight": 1,
+            "source": "momentos",
+            "target": "deixam"
+        },
+        {
+            "weight": 1,
+            "source": "deixam",
+            "target": "questionando"
+        },
+        {
+            "weight": 1,
+            "source": "questionando",
+            "target": "valor"
+        },
+        {
+            "weight": 1,
+            "source": "valor",
+            "target": "reavivam"
+        },
+        {
+            "weight": 1,
+            "source": "reavivam",
+            "target": "ansiedade"
+        },
+        {
+            "weight": 1,
+            "source": "ansiedade",
+            "target": "luto"
+        },
+        {
+            "weight": 1,
+            "source": "ansiedade",
+            "target": "peso"
+        },
+        {
+            "weight": 1,
+            "source": "ansiedade",
+            "target": "misturado"
+        },
+        {
+            "weight": 1,
+            "source": "ansiedade",
+            "target": "alimenta"
+        },
+        {
+            "weight": 1,
+            "source": "ansiedade",
+            "target": "deixando"
+        },
+        {
+            "weight": 1,
+            "source": "luto",
+            "target": "tanto"
+        },
+        {
+            "weight": 1,
+            "source": "tanto",
+            "target": "controlar"
+        },
+        {
+            "weight": 1,
+            "source": "tanto",
+            "target": "vir\u00e1"
+        },
+        {
+            "weight": 1,
+            "source": "tanto",
+            "target": "internamente"
+        },
+        {
+            "weight": 1,
+            "source": "controlar",
+            "target": "sinto-me"
+        },
+        {
+            "weight": 1,
+            "source": "vir\u00e1",
+            "target": "paz"
+        },
+        {
+            "weight": 1,
+            "source": "sinto-me",
+            "target": "constantemente"
+        },
+        {
+            "weight": 1,
+            "source": "constantemente",
+            "target": "corda"
+        },
+        {
+            "weight": 1,
+            "source": "corda",
+            "target": "bamba"
+        },
+        {
+            "weight": 1,
+            "source": "bamba",
+            "target": "tentando"
+        },
+        {
+            "weight": 2,
+            "source": "tentando",
+            "target": "equilibrar"
+        },
+        {
+            "weight": 1,
+            "source": "tentando",
+            "target": "tens\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "equilibrar",
+            "target": "sa\u00fade"
+        },
+        {
+            "weight": 1,
+            "source": "equilibrar",
+            "target": "desejo"
+        },
+        {
+            "weight": 1,
+            "source": "sa\u00fade",
+            "target": "mental"
+        },
+        {
+            "weight": 1,
+            "source": "mental",
+            "target": "necessidade"
+        },
+        {
+            "weight": 1,
+            "source": "necessidade",
+            "target": "agrad\u00e1-lo"
+        },
+        {
+            "weight": 1,
+            "source": "necessidade",
+            "target": "seguir"
+        },
+        {
+            "weight": 1,
+            "source": "lembrete",
+            "target": "tente"
+        },
+        {
+            "weight": 1,
+            "source": "tente",
+            "target": "nunca"
+        },
+        {
+            "weight": 1,
+            "source": "ainda",
+            "target": "desejo"
+        },
+        {
+            "weight": 1,
+            "source": "desejo",
+            "target": "noite"
+        },
+        {
+            "weight": 1,
+            "source": "desejo",
+            "target": "agrad\u00e1-lo"
+        },
+        {
+            "weight": 1,
+            "source": "noite",
+            "target": "enquanto"
+        },
+        {
+            "weight": 1,
+            "source": "noite",
+            "target": "decep\u00e7\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "noite",
+            "target": "ins\u00f4nia"
+        },
+        {
+            "weight": 1,
+            "source": "enquanto",
+            "target": "moradia"
+        },
+        {
+            "weight": 1,
+            "source": "enquanto",
+            "target": "conta"
+        },
+        {
+            "weight": 1,
+            "source": "enquanto",
+            "target": "perguntar"
+        },
+        {
+            "weight": 1,
+            "source": "moradia",
+            "target": "dorme"
+        },
+        {
+            "weight": 1,
+            "source": "dorme",
+            "target": "fico"
+        },
+        {
+            "weight": 1,
+            "source": "fico",
+            "target": "acordada"
+        },
+        {
+            "weight": 1,
+            "source": "acordada",
+            "target": "revivendo"
+        },
+        {
+            "weight": 1,
+            "source": "revivendo",
+            "target": "palavra"
+        },
+        {
+            "weight": 1,
+            "source": "palavra",
+            "target": "perguntando"
+        },
+        {
+            "weight": 1,
+            "source": "perguntando",
+            "target": "dia"
+        },
+        {
+            "weight": 1,
+            "source": "dia",
+            "target": "paz"
+        },
+        {
+            "weight": 1,
+            "source": "dia",
+            "target": "perguntar"
+        },
+        {
+            "weight": 1,
+            "source": "dia",
+            "target": "conseguirei"
+        },
+        {
+            "weight": 1,
+            "source": "muitos",
+            "target": "outros"
+        },
+        {
+            "weight": 1,
+            "source": "outros",
+            "target": "dias"
+        },
+        {
+            "weight": 1,
+            "source": "dias",
+            "target": "acordei"
+        },
+        {
+            "weight": 1,
+            "source": "acordei",
+            "target": "sentindo"
+        },
+        {
+            "weight": 1,
+            "source": "sentindo",
+            "target": "peso"
+        },
+        {
+            "weight": 1,
+            "source": "misturado",
+            "target": "press\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "alimenta",
+            "target": "desaprova\u00e7\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "deixando",
+            "target": "medo"
+        },
+        {
+            "weight": 1,
+            "source": "press\u00e3o",
+            "target": "expectativas"
+        },
+        {
+            "weight": 1,
+            "source": "expectativas",
+            "target": "dan\u00e7a"
+        },
+        {
+            "weight": 1,
+            "source": "expectativas",
+            "target": "atendidas"
+        },
+        {
+            "weight": 1,
+            "source": "dan\u00e7a",
+            "target": "nesta"
+        },
+        {
+            "weight": 1,
+            "source": "vis\u00e3o",
+            "target": "espec\u00edfica"
+        },
+        {
+            "weight": 1,
+            "source": "vis\u00e3o",
+            "target": "vida"
+        },
+        {
+            "weight": 1,
+            "source": "vis\u00e3o",
+            "target": "raramente"
+        },
+        {
+            "weight": 1,
+            "source": "olhos",
+            "target": "'suficiente"
+        },
+        {
+            "weight": 1,
+            "source": "sentirei",
+            "target": "presa"
+        },
+        {
+            "weight": 1,
+            "source": "espec\u00edfica",
+            "target": "quer"
+        },
+        {
+            "weight": 1,
+            "source": "vida",
+            "target": "quer"
+        },
+        {
+            "weight": 1,
+            "source": "raramente",
+            "target": "alinha"
+        },
+        {
+            "weight": 1,
+            "source": "alinha",
+            "target": "pr\u00f3prios"
+        },
+        {
+            "weight": 1,
+            "source": "pr\u00f3prios",
+            "target": "desejos"
+        },
+        {
+            "weight": 1,
+            "source": "desejos",
+            "target": "paix\u00f5es"
+        },
+        {
+            "weight": 1,
+            "source": "paix\u00f5es",
+            "target": "deixa"
+        },
+        {
+            "weight": 1,
+            "source": "estado",
+            "target": "tens\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "eco",
+            "target": "mente"
+        },
+        {
+            "weight": 1,
+            "source": "seguir",
+            "target": "pr\u00f3prio"
+        },
+        {
+            "weight": 1,
+            "source": "pr\u00f3prio",
+            "target": "caminho"
+        },
+        {
+            "weight": 1,
+            "source": "caminho",
+            "target": "conversa"
+        },
+        {
+            "weight": 1,
+            "source": "conversa",
+            "target": "parece"
+        },
+        {
+            "weight": 1,
+            "source": "parece",
+            "target": "batalha"
+        },
+        {
+            "weight": 1,
+            "source": "batalha",
+            "target": "sutil"
+        },
+        {
+            "weight": 1,
+            "source": "sutil",
+            "target": "palavras"
+        },
+        {
+            "weight": 1,
+            "source": "palavras",
+            "target": "ressoando"
+        },
+        {
+            "weight": 1,
+            "source": "ressoando",
+            "target": "mente"
+        },
+        {
+            "weight": 1,
+            "source": "medo",
+            "target": "tomar"
+        },
+        {
+            "weight": 1,
+            "source": "medo",
+            "target": "decis\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "medo",
+            "target": "rea\u00e7\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "rea\u00e7\u00e3o",
+            "target": "pior"
+        },
+        {
+            "weight": 1,
+            "source": "pior",
+            "target": "decep\u00e7\u00e3o"
+        },
+        {
+            "weight": 1,
+            "source": "ins\u00f4nia",
+            "target": "toma"
+        },
+        {
+            "weight": 1,
+            "source": "toma",
+            "target": "conta"
+        },
+        {
+            "weight": 1,
+            "source": "conseguirei",
+            "target": "'suficiente"
+        },
+        {
+            "weight": 1,
+            "source": "presa",
+            "target": "nesta"
+        }
+    ],
+    "texts": [
+        "Thamara_A.txt",
+        "Thamara_C.E.txt"
+    ]
+}
