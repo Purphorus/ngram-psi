@@ -106,5 +106,5 @@ def extract_and_save_beliefs(user_graph_path):
     save_beliefs(belief_graphs)
 
 # Exemplo de uso
-user_graph_path = '/Users/samuelpaes/Desktop/ngram-psi/user_graph.json'
+user_graph_path = '' #lembre de colocar o path do grafo .json gerado
 extract_and_save_beliefs(user_graph_path)
