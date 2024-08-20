@@ -22,7 +22,7 @@ def read_text_file(file_path):
         text = file.read()
     return text
 
-def load_synonyms(file_path='/Users/samuelpaes/Desktop/ngram-psi/sinonimos.txt'):
+def load_synonyms(file_path=''): #coloque aqui o path absoluto do seu sinonimos.txt
     synonyms = {}
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
@@ -33,12 +33,12 @@ def load_synonyms(file_path='/Users/samuelpaes/Desktop/ngram-psi/sinonimos.txt')
                     synonyms[word.strip()] = synonym
     return synonyms
 
-def load_custom_stopwords(file_path='/Users/samuelpaes/Desktop/ngram-psi/custom_stopwords.txt'):
+def load_custom_stopwords(file_path=''):#coloque aqui o path absoluto do seu stopwords.txt
     with open(file_path, 'r', encoding='utf-8') as file:
         custom_stopwords = file.read().splitlines()
     return set(custom_stopwords)
 
-def preprocess_text(text, stopwords_file='/Users/samuelpaes/Desktop/ngram-psi/custom_stopwords.txt', synonyms_file='/Users/samuelpaes/Desktop/ngram-psi/sinonimos.txt'):
+def preprocess_text(text, stopwords_file='', synonyms_file=''): #lembre de colocar os paths novamente
     # Carregar stopwords personalizadas do arquivo
     custom_stopwords = load_custom_stopwords(stopwords_file)
     
